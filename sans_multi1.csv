@@ -102,11 +102,13 @@
 1.5,JMPABS,RndAttack,,,,,,
 0,:End,,,,,,,
 0,HeartTeleport,325,250,,,,
+0,HeartMode,0,,,,,,
 0,CombatZoneResizeInstant,280,210,370,290,,,
 0,HeartTeleport,325,250,,,,
 0.828,GasterBlaster,2,550,0,550,340,90,0.207,0.414
 0.828,MercyXY,666,666	
 0.5,EndAttack,,,,,,,
+
 
 
 
